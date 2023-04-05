@@ -4,6 +4,7 @@ Example of making grain texture with SVG.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fa48e291-9028-4cf8-8d77-7774e2fdd23f/deploy-status)](https://app.netlify.com/sites/curious-jalebi-2448ef/deploys)
 
+![screenshot of grain demo](/screenshot.png)
 ## Live Demo
 
 <https://curious-jalebi-2448ef.netlify.app>
